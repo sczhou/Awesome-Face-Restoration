@@ -48,3 +48,7 @@ N/A
 
 ## Talks
 N/A
+
+## Acknowledgment
+
+This template borrows from [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF).
