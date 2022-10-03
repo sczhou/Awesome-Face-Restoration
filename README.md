@@ -1,8 +1,9 @@
 # Awesome Face Restoration & Enhancement
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sczhou/Awesome-Face-Restoration)
+
 A curated list of awesome face restoration & enhancement papers and resources. 
 
-##### Welcome to add papers and other resources related to this topic [[submit a pull request]](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md) :hugs:
+#### Welcome to add papers and other resources related to this topic [[submit a pull request]](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md) :hugs:
 
 ## Table of Contents
 
