@@ -1,4 +1,4 @@
-1. Put the bibtex in **END** of `facebib.bib`. 
+1. Put the bibtex at the **END** of `facebib.bib`. 
    
 2. Modify the corresponding list in the `README.md` and follow the format:
 
