@@ -1,6 +1,0 @@
-@InProceedings{chan2021glean,
- author = {Chan, Kelvin CK and Wang, Xintao and Xu, Xiangyu and Gu, Jinwei and Loy, Chen Change},
- title = {GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution},
- booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
- year = {2021}
-}

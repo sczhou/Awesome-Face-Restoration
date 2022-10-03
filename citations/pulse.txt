@@ -1,7 +1,0 @@
-@inproceedings{menon2020pulse,
-    title={Pulse: Self-supervised photo upsampling via latent space exploration of generative models},
-    author={Menon, Sachit and Damian, Alexandru and Hu, Shijia and Ravi, Nikhil and Rudin, Cynthia},
-    booktitle={Proceedings of the ieee/cvf conference on computer vision and pattern recognition},
-    pages={2437--2445},
-    year={2020}
-}

@@ -1,6 +1,0 @@
-@inproceedings{gu2022vqfr,
-  title={VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder},
-  author={Gu, Yuchao and Wang, Xintao and Xie, Liangbin and Dong, Chao and Li, Gen and Shan, Ying and Cheng, Ming-Ming},
-  year={2022},
-  booktitle={ECCV}
-}

@@ -1,6 +1,0 @@
-@InProceedings{Li_2020_ECCV,
-    author = {Li, Xiaoming and Chen, Chaofeng and Zhou, Shangchen and Lin, Xianhui and Zuo, Wangmeng and Zhang, Lei},
-    title = {Blind Face Restoration via Deep Multi-scale Component Dictionaries},
-    booktitle = {ECCV},
-    year = {2020}
-}

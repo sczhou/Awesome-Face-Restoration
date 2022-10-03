@@ -1,6 +1,0 @@
-@inproceedings{ChenPSFRGAN,
-    author = {Chen, Chaofeng and Li, Xiaoming and Lingbo, Yang and Lin, Xianhui and Zhang, Lei and Wong, KKY},
-    title = {Progressive Semantic-Aware Style Transformation for Blind Face Restoration},
-    Journal = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year = {2021}
-}
