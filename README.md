@@ -1,7 +1,8 @@
 # Awesome Face Restoration & Enhancement
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sczhou/Awesome-Face-Restoration)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![collection](https://img.shields.io/badge/Collection-Keep%20Updating-green) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sczhou/Awesome-Face-Restoration)
 
-A curated list of awesome face restoration & enhancement papers and resources, inspired by [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF). 
+
+A curated list of awesome face restoration & enhancement papers and resources :whale:, inspired by [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF). 
 
 #### Welcome to add papers and other resources related to this topic [[submit a pull request]](https://github.com/sczhou/Awesome-Face-Restoration/blob/master/how-to-PR.md) :hugs:
 
@@ -9,6 +10,7 @@ A curated list of awesome face restoration & enhancement papers and resources, i
 
 - [Papers](#papers)
 - [Survey](#survey)
+- [Datasets](#datasets)
 - [Talks](#talks)
 
 
@@ -29,22 +31,32 @@ A curated list of awesome face restoration & enhancement papers and resources, i
 
 - [CVPR 2021] GPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild, Yang et al. [Paper](https://arxiv.org/abs/2105.06070) | [Github](https://github.com/yangxy/GPEN) | [Bibtex](./facebib.bib#L50-L55)
 
+#### GAN Inversion
+- [CVPR 2020] PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models, Menon et al. [Paper](https://arxiv.org/abs/2003.03808) | [Github](https://github.com/adamian98/pulse) | [Bibtex](./facebib.bib#L64-L69)
+
+
 #### Dictionary Learning
 - [ECCV 2020] DFDNet: Blind Face Restoration via Deep Multi-scale Component Dictionaries, Li et al. [Paper](https://arxiv.org/abs/2008.00418) | [Github](https://github.com/csxmli2016/DFDNet) | [Bibtex](./facebib.bib#L22-L27)
 
-#### Reference/Exemplar Guided
+#### Reference/Exemplar Prior
 - [CVPR 2020] ASFFNet: Enhanced Blind Face Restoration With Multi-Exemplar Images and Adaptive Spatial Feature Fusion, Li et al. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf) | [Github](https://github.com/csxmli2016/ASFFNet) | [Bibtex](./facebib.bib#L57-L62)
 
 #### Geometry Facial Prior
 - [CVPR 2021] PSFRGAN: Progressive Semantic-Aware Style Transformation for Blind Face Restoration, Chen et al. [Paper](https://arxiv.org/abs/2009.08709) | [Github](https://github.com/chaofengc/PSFRGAN) | [Bibtex](./facebib.bib#L29-L34)
 
-#### GAN Inversion
-- [CVPR 2020] PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models, Menon et al. [Paper](https://arxiv.org/abs/2003.03808) | [Github](hhttps://github.com/adamian98/pulse) | [Bibtex](./facebib.bib#L64-L69)
+#### 3D Face Shape Prior
+- [CVPR 2022] SGPN: Blind Face Restoration via Integrating Face Shape and Generative Priors, Zhu et al. [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.pdf) | [Bibtex](./facebib.bib#L71-L76)
+
+#### Personalized Restoration
+- [ArXiv 2022] MyStyle: A Personalized Generative Prior, Nitzan et al. [Paper](https://arxiv.org/abs/2203.17272) | [Github](https://github.com/google/mystyle) | [Project](https://mystyle-personalized-prior.github.io/) | [Bibtex](./facebib.bib#L78-L83)
 
 
 
 ## Survey
-N/A
+(TBD)
+
+## Datasets
+(TBD)
 
 ## Talks
-N/A
+(TBD)
