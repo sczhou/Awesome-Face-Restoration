@@ -1,0 +1,6 @@
+@inproceedings{Yang2021GPEN,
+    title={GAN Prior Embedded Network for Blind Face Restoration in the Wild},
+    author={Tao Yang, Peiran Ren, Xuansong Xie, and Lei Zhang},
+    booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2021}
+}

@@ -1,0 +1,6 @@
+@article{wang2022restoreformer,
+  title={RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs},
+  author={Wang, Zhouxia and Zhang, Jiawei and Chen, Runjian and Wang, Wenping and Luo, Ping},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
+}
