@@ -3,7 +3,7 @@
 
 A curated list of awesome face restoration & enhancement papers and resources. 
 
-#### Welcome to add papers and other resources related to this topic [[submit a pull request]](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md) :hugs:
+#### Welcome to add papers and other resources related to this topic [[submit a pull request]](https://github.com/sczhou/Awesome-Face-Restoration/blob/master/how-to-PR.md) :hugs:
 
 ## Table of Contents
 
