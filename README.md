@@ -11,7 +11,6 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 - [Papers](#papers)
 - [Survey](#survey)
 - [Datasets](#datasets)
-- [Talks](#talks)
 
 
 
@@ -56,7 +55,27 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 (TBD)
 
 ## Datasets
-(TBD)
+#### High-Resolution
+| Dataset | Resolution | Description |
+| :---: | :---: | :----------    |
+| [FFHQ](https://github.com/NVlabs/ffhq-dataset) | 1024 x 1024 | 7,0000 high-quality face images (usually used for training) |
+| [CelebA-HQ](https://github.com/nperraud/download-celebA-HQ) | 1024 x 1024 | 3,0000 high-quality face images (usually used for evaluation) |
+| [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) | 512 x 512 | 3,0000 face images with 19 facial classes |
+| [CelebRef-HQ](https://github.com/csxmli2016/DMDNet) | 512 x 512 | high-quality face images with multiple same-identity references |
 
-## Talks
-(TBD)
+#### Low-Resolution
+
+| Dataset | Description |
+| :---: | :----------    |
+| [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  | a large-scale face attributes dataset with more than 200K celebrity images |
+| [WIDER-Test](https://shangchenzhou.com/projects/CodeFormer/)  | 970 real-world severely degraded face images from the [WIDER Face dataset](http://shuoyang1213.me/WIDERFACE/) (for test)|
+| [LFW-Test](hhttps://xinntao.github.io/projects/gfpgan)  | 1711 real-world degraded faces collected from the [LFW dataset](https://vis-www.cs.umass.edu/lfw/) (for test)|
+| [WebPhoto-Test](hhttps://xinntao.github.io/projects/gfpgan)  | 407 real-world degraded faces collected from the Internet (for test)|
+| [CelebChild-Test](hhttps://xinntao.github.io/projects/gfpgan)  | 180 real-world degraded child faces collected from the Internet (for test)|
+
+#### Other Face Dataset
+| Dataset | Description |
+| :---: | :----------    |
+| [CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog)  | a large-scale visual-language face dataset with fine-grained labels and captions|
+| [CelebA-Spoof](https://github.com/ZhangYuanhan-AI/CelebA-Spoof)  | a large-scale face anti-spoofing dataset with rich attributes and spoof types|
+| [PPR10K](https://github.com/csjliang/PPR10K)  | a large-scale portrait photo retouching dataset |
