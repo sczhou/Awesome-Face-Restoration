@@ -69,9 +69,9 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 | :---: | :----------    |
 | [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  | a large-scale face attributes dataset with more than 200K celebrity images |
 | [WIDER-Test](https://shangchenzhou.com/projects/CodeFormer/)  | 970 real-world severely degraded face images from the [WIDER Face dataset](http://shuoyang1213.me/WIDERFACE/) (for test)|
-| [LFW-Test](hhttps://xinntao.github.io/projects/gfpgan)  | 1711 real-world degraded faces collected from the [LFW dataset](https://vis-www.cs.umass.edu/lfw/) (for test)|
-| [WebPhoto-Test](hhttps://xinntao.github.io/projects/gfpgan)  | 407 real-world degraded faces collected from the Internet (for test)|
-| [CelebChild-Test](hhttps://xinntao.github.io/projects/gfpgan)  | 180 real-world degraded child faces collected from the Internet (for test)|
+| [LFW-Test](https://xinntao.github.io/projects/gfpgan)  | 1711 real-world degraded faces collected from the [LFW dataset](https://vis-www.cs.umass.edu/lfw/) (for test)|
+| [WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)  | 407 real-world degraded faces collected from the Internet (for test)|
+| [CelebChild-Test](https://xinntao.github.io/projects/gfpgan)  | 180 real-world degraded child faces collected from the Internet (for test)|
 
 #### Other Face Dataset
 | Dataset | Description |
