@@ -23,6 +23,8 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 - `[CVPR 2022]` RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs, Wang et al. [Paper](https://arxiv.org/abs/2201.06374) | [Github](https://github.com/wzhouxiff/RestoreFormer) | [Bibtex](./facebib.bib#L15-L20)
 
+- `[CVPR 2022]` Rethinking Deep Face Restoration. Zhao et al. [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf) | [Bibtex](./facebib.bib#L85-L91)
+
 #### Generative Prior - StyleGAN2
 - `[CVPR 2021]` GFPGAN: Towards Real-World Blind Face Restoration with Generative Facial Prior, Wang et al. [Paper](https://arxiv.org/abs/2101.04061) | [Project](https://xinntao.github.io/projects/gfpgan) | [Github](https://github.com/TencentARC/GFPGAN) | [Demo](https://huggingface.co/spaces/Xintao/GFPGAN) | [Bibtex](./facebib.bib#L43-L48)
 
@@ -49,7 +51,9 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 #### Personalized Restoration
 - `[ArXiv 2022]` MyStyle: A Personalized Generative Prior, Nitzan et al. [Paper](https://arxiv.org/abs/2203.17272) | [Github](https://github.com/google/mystyle) | [Project](https://mystyle-personalized-prior.github.io/) | [Bibtex](./facebib.bib#L78-L83)
 
+#### Others 
 
+- `[TIP 2020]` Learning Spatial Attention for Face Super-Resolution, Chen et al. [Paper](https://arxiv.org/abs/2012.01211) | [Github](https://github.com/chaofengc/Face-SPARNet) | [Bibtex](./facebib.bib#L93-L98)
 
 ## Survey
 (TBD)
