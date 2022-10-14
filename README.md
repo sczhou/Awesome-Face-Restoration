@@ -9,12 +9,18 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 ## Table of Contents
 
 - [Papers](#papers)
+  - [Face Image Restoration](#face-image-restoration)
+  - [Face Video Restoration](#face-video-restoration)
 - [Survey](#survey)
 - [Datasets](#datasets)
-
-
+    - [High-Resolution](#high-resolution)
+    - [Low-Resolution](#low-resolution)
+    - [Video Face](#video-face)
+    - [Other Face Dataset](#other-face-dataset)
 
 ## Papers
+
+### Face Image Restoration
 
 #### Generative Prior - VQGAN
 - `[NeurIPS 2022]` CodeFormer: Towards Robust Blind Face Restoration with Codebook Lookup Transformer, Zhou et al. [Paper](https://arxiv.org/abs/2206.11253) | [Project](https://shangchenzhou.com/projects/CodeFormer/) | [Github](https://github.com/sczhou/CodeFormer) | [Demo](https://huggingface.co/spaces/sczhou/CodeFormer) | [Bibtex](./facebib.bib#L1-L6)
@@ -55,6 +61,9 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 - `[TIP 2020]` Learning Spatial Attention for Face Super-Resolution, Chen et al. [Paper](https://arxiv.org/abs/2012.01211) | [Github](https://github.com/chaofengc/Face-SPARNet) | [Bibtex](./facebib.bib#L93-L98)
 
+### Face Video Restoration
+
+- `[CVPRW 2022]` VFHQ: A High-Quality Dataset and Benchmark for Video Face Super-Resolution, Xie et al. [Paper](https://arxiv.org/abs/2205.03409) | [Project](https://liangbinxie.github.io/projects/vfhq/) | [Bibtex](./facebib.bib#L100-L105)
 ## Survey
 (TBD)
 
@@ -76,6 +85,11 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 | [LFW-Test](https://xinntao.github.io/projects/gfpgan)  | 1711 real-world degraded faces collected from the [LFW dataset](https://vis-www.cs.umass.edu/lfw/) (for test)|
 | [WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)  | 407 real-world degraded faces collected from the Internet (for test)|
 | [CelebChild-Test](https://xinntao.github.io/projects/gfpgan)  | 180 real-world degraded child faces collected from the Internet (for test)|
+
+#### Video Face
+| Dataset | Description |
+| :---: | :----------    |
+| [VFHQ](https://liangbinxie.github.io/projects/vfhq/)  | 16,000 high-fidelity clips of diverse interview scenarios
 
 #### Other Face Dataset
 | Dataset | Description |
