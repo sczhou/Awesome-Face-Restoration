@@ -44,6 +44,7 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 #### Dictionary Learning
 - `[ECCV 2020]` DFDNet: Blind Face Restoration via Deep Multi-scale Component Dictionaries, Li et al. [Paper](https://arxiv.org/abs/2008.00418) | [Github](https://github.com/csxmli2016/DFDNet) | [Bibtex](./facebib.bib#L22-L27)
+- `[TPAMI 2022]` Learning Dual Memory Dictionaries for Blind Face Restoration, Li et al. [Paper](https://arxiv.org/abs/2210.08160) | [Github](https://github.com/csxmli2016/DMDNet) | [Bibtex](./facebib.bib#L107-L112)
 
 #### Reference/Exemplar Prior
 - `[CVPR 2020]` ASFFNet: Enhanced Blind Face Restoration With Multi-Exemplar Images and Adaptive Spatial Feature Fusion, Li et al. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf) | [Github](https://github.com/csxmli2016/ASFFNet) | [Bibtex](./facebib.bib#L57-L62)
