@@ -43,8 +43,8 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 
 #### Dictionary Learning
+- `[TPAMI 2022]` DMDNet: Learning Dual Memory Dictionaries for Blind Face Restoration, Li et al. [Paper](https://arxiv.org/abs/2210.08160) | [Github](https://github.com/csxmli2016/DMDNet) | [CelebRef-HQ Dataset](https://github.com/csxmli2016/DMDNet#celebref-hq-dataset) | [Bibtex](./facebib.bib#L107-L112)
 - `[ECCV 2020]` DFDNet: Blind Face Restoration via Deep Multi-scale Component Dictionaries, Li et al. [Paper](https://arxiv.org/abs/2008.00418) | [Github](https://github.com/csxmli2016/DFDNet) | [Bibtex](./facebib.bib#L22-L27)
-- `[TPAMI 2022]` Learning Dual Memory Dictionaries for Blind Face Restoration, Li et al. [Paper](https://arxiv.org/abs/2210.08160) | [Github](https://github.com/csxmli2016/DMDNet) | [Bibtex](./facebib.bib#L107-L112)
 
 #### Reference/Exemplar Prior
 - `[CVPR 2020]` ASFFNet: Enhanced Blind Face Restoration With Multi-Exemplar Images and Adaptive Spatial Feature Fusion, Li et al. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf) | [Github](https://github.com/csxmli2016/ASFFNet) | [Bibtex](./facebib.bib#L57-L62)
@@ -75,7 +75,7 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 | [FFHQ](https://github.com/NVlabs/ffhq-dataset) | 1024 x 1024 | 7,0000 high-quality face images (usually used for training) |
 | [CelebA-HQ](https://github.com/nperraud/download-celebA-HQ) | 1024 x 1024 | 3,0000 high-quality face images (usually used for evaluation) |
 | [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) | 512 x 512 | 3,0000 face images with 19 facial classes |
-| [CelebRef-HQ](https://github.com/csxmli2016/DMDNet) | 512 x 512 | high-quality face images with multiple same-identity references |
+| [CelebRef-HQ](https://github.com/csxmli2016/DMDNet#celebref-hq-dataset) | 512 x 512 | high-quality face images with multiple same-identity references |
 
 #### Low-Resolution
 
