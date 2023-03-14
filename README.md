@@ -22,7 +22,7 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 ### Face Image Restoration
 
-### Diffusion Model
+#### Diffusion Model
 
 - `[CVPR2023]` DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration, Wang et al. [Paper](https://arxiv.org/abs/2303.06885) | [Bibtex](./facebib.bib#L114-L119) 
 
