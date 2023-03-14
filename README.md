@@ -24,7 +24,8 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 #### Diffusion Model
 
-- `[CVPR2023]` DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration, Wang et al. [Paper](https://arxiv.org/abs/2303.06885) | [Bibtex](./facebib.bib#L114-L119) 
+- `[CVPR 2023]` DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration, Wang et al. [Paper](https://arxiv.org/abs/2303.06885) | [Bibtex](./facebib.bib#L114-L119) 
+- `[Arxiv 2022]` DifFace: Blind Face Restoration with Diffused Error Contraction, Yue et al. [Paper](https://arxiv.org/abs/2212.06512) | [Github](https://github.com/zsyOAOA/DifFace) | [Demo](https://huggingface.co/spaces/OAOA/DifFace) | [Bibtex](./facebib.bib#L121-L127)
 
 #### Generative Prior - VQGAN
 - `[NeurIPS 2022]` CodeFormer: Towards Robust Blind Face Restoration with Codebook Lookup Transformer, Zhou et al. [Paper](https://arxiv.org/abs/2206.11253) | [Project](https://shangchenzhou.com/projects/CodeFormer/) | [Github](https://github.com/sczhou/CodeFormer) | [Demo](https://huggingface.co/spaces/sczhou/CodeFormer) | [Bibtex](./facebib.bib#L1-L6)
