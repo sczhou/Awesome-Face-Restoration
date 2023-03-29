@@ -11,11 +11,10 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 - [Papers](#papers)
   - [Face Image Restoration](#face-image-restoration)
   - [Face Video Restoration](#face-video-restoration)
-- [Survey](#survey)
 - [Datasets](#datasets)
-    - [High-Resolution](#high-resolution)
-    - [Low-Resolution](#low-resolution)
-    - [Video Face](#video-face)
+    - [High-Res Face Dataset](#high-resolution-face-dataset)
+    - [Low-Res Face Dataset](#low-resolution-face-dataset)
+    - [Video Face Dataset](#video-face-dataset)
     - [Other Face Dataset](#other-face-dataset)
 
 ## Papers
@@ -48,9 +47,8 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 
 #### Dictionary Learning
+- `[TPAMI 2022]` DMDNet: Learning Dual Memory Dictionaries for Blind Face Restoration, Li et al. [Paper](https://arxiv.org/abs/2210.08160) | [Github](https://github.com/csxmli2016/DMDNet) | [CelebRef-HQ Dataset](https://github.com/csxmli2016/DMDNet#celebref-hq-dataset) | [Bibtex](./facebib.bib#L107-L112)
 - `[ECCV 2020]` DFDNet: Blind Face Restoration via Deep Multi-scale Component Dictionaries, Li et al. [Paper](https://arxiv.org/abs/2008.00418) | [Github](https://github.com/csxmli2016/DFDNet) | [Bibtex](./facebib.bib#L22-L27)
-- `[TPAMI 2022]` Learning Dual Memory Dictionaries for Blind Face Restoration, Li et al. [Paper](https://arxiv.org/abs/2210.08160) | [Github](https://github.com/csxmli2016/DMDNet) | [Bibtex](./facebib.bib#L107-L112)
-
 
 #### Reference/Exemplar Prior
 - `[CVPR 2020]` ASFFNet: Enhanced Blind Face Restoration With Multi-Exemplar Images and Adaptive Spatial Feature Fusion, Li et al. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf) | [Github](https://github.com/csxmli2016/ASFFNet) | [Bibtex](./facebib.bib#L57-L62)
@@ -68,22 +66,23 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 
 - `[TIP 2020]` Learning Spatial Attention for Face Super-Resolution, Chen et al. [Paper](https://arxiv.org/abs/2012.01211) | [Github](https://github.com/chaofengc/Face-SPARNet) | [Bibtex](./facebib.bib#L93-L98)
 
+
+&nbsp;
+
 ### Face Video Restoration
 
 - `[CVPRW 2022]` VFHQ: A High-Quality Dataset and Benchmark for Video Face Super-Resolution, Xie et al. [Paper](https://arxiv.org/abs/2205.03409) | [Project](https://liangbinxie.github.io/projects/vfhq/) | [Bibtex](./facebib.bib#L100-L105)
-## Survey
-(TBD)
 
 ## Datasets
-#### High-Resolution
+#### High-Resolution Face Dataset
 | Dataset | Resolution | Description |
 | :---: | :---: | :----------    |
 | [FFHQ](https://github.com/NVlabs/ffhq-dataset) | 1024 x 1024 | 7,0000 high-quality face images (usually used for training) |
 | [CelebA-HQ](https://github.com/nperraud/download-celebA-HQ) | 1024 x 1024 | 3,0000 high-quality face images (usually used for evaluation) |
 | [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) | 512 x 512 | 3,0000 face images with 19 facial classes |
-| [CelebRef-HQ](https://github.com/csxmli2016/DMDNet) | 512 x 512 | high-quality face images with multiple same-identity references |
+| [CelebRef-HQ](https://github.com/csxmli2016/DMDNet#celebref-hq-dataset) | 512 x 512 | high-quality face images with multiple same-identity references |
 
-#### Low-Resolution
+#### Low-Resolution Face Dataset
 
 | Dataset | Description |
 | :---: | :----------    |
@@ -93,10 +92,15 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 | [WebPhoto-Test](https://xinntao.github.io/projects/gfpgan)  | 407 real-world degraded faces collected from the Internet (for test)|
 | [CelebChild-Test](https://xinntao.github.io/projects/gfpgan)  | 180 real-world degraded child faces collected from the Internet (for test)|
 
-#### Video Face
+#### Video Face Dataset
 | Dataset | Description |
 | :---: | :----------    |
-| [VFHQ](https://liangbinxie.github.io/projects/vfhq/)  | 16,000 high-fidelity clips of diverse interview scenarios
+| [TalkingHead-1KH](https://github.com/deepimagination/TalkingHead-1KH)  | 500k video clips, of which about 80k are greater than 512x512 resolution |
+| [VFHQ](https://liangbinxie.github.io/projects/vfhq)  | 16,000 high-fidelity clips of diverse interview scenarios |
+| [CelebV-HQ](https://celebv-hq.github.io/)  | 35,666 video clips involving 15,653 identities and 83 manually labeled facial attributes |
+| [CelebV-Text](https://celebv-text.github.io/)  | 70,000 in-the-wild face video clips covering diverse visual content |
+
+
 
 #### Other Face Dataset
 | Dataset | Description |
