@@ -95,7 +95,7 @@ A curated list of awesome face restoration & enhancement papers and resources :w
 #### Video Face Dataset
 | Dataset | Description |
 | :---: | :----------    |
-| [TalkingHead-1KH](https://github.com/deepimagination/TalkingHead-1KH)  | 500k video clips, of which about 80k are greater than 512x512 resolution |
+| [TalkingHead-1KH](https://github.com/tcwang0509/TalkingHead-1KH)  | 500k video clips, of which about 80k are greater than 512x512 resolution |
 | [VFHQ](https://liangbinxie.github.io/projects/vfhq)  | 16,000 high-fidelity clips of diverse interview scenarios |
 | [CelebV-HQ](https://celebv-hq.github.io/)  | 35,666 video clips involving 15,653 identities and 83 manually labeled facial attributes |
 | [CelebV-Text](https://celebv-text.github.io/)  | 70,000 in-the-wild face video clips covering diverse visual content |
