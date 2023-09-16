@@ -1,5 +1,5 @@
 # Awesome Face Restoration & Enhancement
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![collection](https://img.shields.io/badge/Collection-Keep%20Updating-green) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sczhou/Awesome-Face-Restoration)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![collection](https://img.shields.io/badge/Collection-Keep%20Updating-green) ![visitors](https://api.infinitescript.com/badgen/count?name=sczhou/AwesomeFaceRestoration&ltext=Visitors&color=3977dd)
 
 
 A curated list of awesome face restoration & enhancement papers and resources :whale:, inspired by [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF). 
